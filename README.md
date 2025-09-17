@@ -39,14 +39,11 @@ npx hardhat run scripts/deploy.js --network localhost
 
 ---
 
-## ✅ В итоге
-У тебя в репозитории будет:  
+  
 - `contracts/SimpleCryptoKitties.sol` (контракт)  
 - `scripts/deploy.js` (скрипт)  
 - `README.md` (описание)  
 
-После этого ссылка на твой репозиторий (`https://github.com/Stepfoker/SimpleCryptoKitties`) готова для вставки в HackQuest 🚀  
 
 ---
 
-Хочешь, я сразу дам тебе короткий **Project Intro (200 символов)** и **Description (для HackQuest)**, чтобы ты просто скопировал туда?
